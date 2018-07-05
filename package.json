@@ -1,0 +1,22 @@
+{
+    "name": "ariake",
+    "displayName": "Ariake",
+    "description": "A dark color theme inspired by Japan colors and poetry",
+    "version": "0.0.1",
+    "publisher": "pathtrk",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ariake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ariake-color-theme.json"
+            }
+        ]
+    }
+}
