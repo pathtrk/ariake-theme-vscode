@@ -14,7 +14,23 @@
 		"sideBar.background": "#343434",
 		"sideBarTitle.foreground": "#a2a2a2",
 		"statusBar.background": "#5d85a5",
-		"statusBar.noFolderBackground":"#9980b5"
+		"statusBar.noFolderBackground":"#9980b5",
+		"terminal.ansiBlack": "#333333",
+		"terminal.ansiRed": "#c4547b",
+		"terminal.ansiGreen": "#45be82",
+		"terminal.ansiYellow": "#c4c42c",
+		"terminal.ansiBlue": "#7bb7e9",
+		"terminal.ansiMagenta": "#936bc8",
+		"terminal.ansiCyan": "#7db1c9",
+		"terminal.ansiWhite": "#eeeeef",
+		"terminal.ansiBrightBlack": "#666666",
+		"terminal.ansiBrightRed": "#db92ad",
+		"terminal.ansiBrightGreen": "#78e9b0",
+		"terminal.ansiBrightYellow": "#e7e742",
+		"terminal.ansiBrightBlue": "#95d0f7",
+		"terminal.ansiBrightMagenta": "#bb98e9",
+		"terminal.ansiBrightCyan": "#91c0db",
+		"terminal.ansiBrightWhite": "#f7f7f9"
 	},
 	"tokenColors": [
 		{
