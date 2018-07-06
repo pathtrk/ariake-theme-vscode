@@ -14,7 +14,7 @@
 		"sideBar.background": "#343434",
 		"sideBarTitle.foreground": "#a2a2a2",
 		"statusBar.background": "#5d85a5",
-		"statusBar.noFolderBackground":"#9980b5",
+		"statusBar.noFolderBackground":"#9080bd",
 		"terminal.ansiBlack": "#333333",
 		"terminal.ansiRed": "#c4547b",
 		"terminal.ansiGreen": "#45be82",
